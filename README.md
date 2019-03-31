@@ -4,13 +4,13 @@
 
 **Overall Placing**: 2nd place (6 solves, 0 fails)
 
-| Problem   | Status                  | Notes                    |
-|-----------|-------------------------|--------------------------|
-| 5         | Solved                  | Simple A* search         |
-| 6         | Solved                  |                          |
-| 7         | Solved                  | Levenshtein Distance     |
-| 8         | Solved                  | Recursive Tree Traversal |
-| 9         | Solved                  | Convex Hull              |
-| 10        | Unsolved; Not Attempted | More complex A* search   |
-| 11        | Solved                  |                          |
-| 12        | Unsolved; Attempted     | Convex Hull++            |
+| Problem   | Status                  | Notes                    |Coded By  |
+|-----------|-------------------------|--------------------------|----------|
+| 5         | Solved                  | Simple A* search         |Ivan      |
+| 6         | Solved                  |                          |Ethan     |
+| 7         | Solved                  | Levenshtein Distance     |Ivan      |
+| 8         | Solved                  | Recursive Tree Traversal |Ethan     |
+| 9         | Solved                  | Convex Hull              |Ivan      |
+| 10        | Unsolved; Not Attempted | More complex A* search   |          |
+| 11        | Solved                  |                          |Ethan     |
+| 12        | Unsolved; Attempted     | Convex Hull++            |          |
